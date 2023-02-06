@@ -1,0 +1,11 @@
+# Author : Andreia Santos
+# Programe name: operators
+# Program description : This program gives the result of one mathematical operation with numbers and bolean variables
+
+
+answer=21-4
+print(f"The substraction of 4 to 21 is equal to : {answer}")
+
+
+print("\nIs no 2 equal to no 3?")
+print(2==3)
