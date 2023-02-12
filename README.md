@@ -17,3 +17,8 @@ Generic description:User inputs, operations with numbers, conversions into strin
 
 ___________________________________________________________
 Week 3: 
+
+
+No. programs:14
+Program names: TestTypes, sub, div, randomGenerator, randomfruit, EXTRAS-6-7-8, randomfruit2, round, absolute, floor, EXTRA-convert.py, lenght, hi, normalize
+Generic description: Handling Strings, variables, list. Do some operations. 
