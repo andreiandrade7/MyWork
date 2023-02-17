@@ -28,7 +28,7 @@ ___________________________________________________________
 Week 4: 
 
 
-No. programs:0
+No. programs:10
 Program names: isEven, grade, extra-round, Extra-while, evens, guess1, guess2, guess3, average, topthree
 Generic description: Familirize with for and while loops. Work with conditional caluses : if, elif, else. Beginning of lists (sort, copy, access some list's positions)
 
