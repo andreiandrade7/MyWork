@@ -32,3 +32,10 @@ No. programs:10
 Program names: isEven, grade, extra-round, Extra-while, evens, guess1, guess2, guess3, average, topthree
 Generic description: Familirize with for and while loops. Work with conditional caluses : if, elif, else. Beginning of lists (sort, copy, access some list's positions)
 
+___________________________________________________________
+Week 5: 
+
+
+No. programs:6 (1 is not complete)
+Program names: quizz, month-tupple, queue, student-dict, student-input-dictionary, student-multiple
+Generic description: Familirize tupples and dictionaries
