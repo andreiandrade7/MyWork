@@ -1,7 +1,7 @@
 
 # Author : Andreia Santos
-# Programe name: lab6.2.py
-# Program description : create a student management program [step 2]: 
+# Programe name: lab6.3.py
+# Program description : create a student management program [step 3]: 
 
 #------------------------------------------------------------------------------
 # 1 . Functions set up
@@ -12,7 +12,7 @@ def menu():
     print ("What would you like to do?\n")
     print ("(a) Add new student\n(v) View students\n(q) Quit\n")
     print ("Type one letter (a/v/q):")
-    choose=input()
+    choose=input().strip()
     
     print ("you choose {}".format(choose))
     return choose
@@ -36,7 +36,7 @@ while option != "q":
     elif option=="v":
         # doview()
         print ("perform v")
-        
+
     elif option != "q":
          print ("Please keep to the available options, select: a, v or q")
          option=menu()

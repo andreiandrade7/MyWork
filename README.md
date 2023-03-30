@@ -39,3 +39,20 @@ Week 5:
 No. programs:6 (1 is not complete)
 Program names: quizz, month-tupple, queue, student-dict, student-input-dictionary, student-multiple
 Generic description: Familirize tupples and dictionaries
+
+
+___________________________________________________________
+Week 6: 
+
+
+No. programs:8 (1 has an error - 6.7)
+Program names: lab6.1    lab6.2    lab6.3    lab6.4    lab6.5    lab6.6    lab6.7       lab6-extra      
+Generic description: Familiarize functions
+
+___________________________________________________________
+Week 7 
+
+
+No. programs:
+Program names: 
+Generic description: 

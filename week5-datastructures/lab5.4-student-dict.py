@@ -24,4 +24,4 @@ student={
 print("Student:{}".format(student["name"]))
 
 for module in student["modules"]:
-    print("\t {} \t:{}".format(module["coursename"], module["grade"]))
+  print("\t {} \t:{}".format(module["coursename"], module["grade"]))

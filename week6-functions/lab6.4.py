@@ -1,50 +1,26 @@
 
 # Author : Andreia Santos
-# Programe name: lab6.2.py
-# Program description : create a student management program [step 2]: 
+# Programe name: lab6.4.py
+# Program description : create a student management program [step 4]- create a new student: 
 
-#------------------------------------------------------------------------------
-# 1 . Functions set up
-#------------------------------------------------------------------------------
+students=[]
 
-# Function menu
-def menu():
-    print ("What would you like to do?\n")
-    print ("(a) Add new student\n(v) View students\n(q) Quit\n")
-    print ("Type one letter (a/v/q):")
-    choose=input()
+def doAdd(students):
+    newstudent={} 
+    newstudent["name"]=input("Insert the student name for the new student: ")
+    #newstudent["modules"]=readModules() # once user can insert more than one module at the same time is neater to generate a new function:readModule() - next lab step
+
+    students.append(newstudent) # add to the already defined data-dictionary- a new student with modules information
+
     
-    print ("you choose {}".format(choose))
-    return choose
+
+doAdd(students)
+print (students)
 
 
-option=menu()
 
 
-#------------------------------------------------------------------------------
-# 2 . Execution
-#------------------------------------------------------------------------------
-
-
-while option != "q":
-    print("I was here")
-    if option=="a":
-        #doAdd()
         
-        print ("perform a")
 
-    elif option=="v":
-        # doview()
-        print ("perform v")
         
-    elif option != "q":
-         print ("Please keep to the available options, select: a, v or q")
-         option=menu()
-    print("END")
-    break
-
-
-
-
-
 
